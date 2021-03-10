@@ -1,15 +1,15 @@
 {
   "version": 2,
   "env": {
-    "GATSBY_SHOP_NAME": "your_shopify_shop_name",
-    "GATSBY_SHOPIFY_ACCESS_TOKEN": "your_shopify_storefront_access_token",
-    "GATSBY_PRISMIC_REPOSITORY": "your_prismic_repository_name"
+    "GATSBY_SHOP_NAME": "graphql",
+    "GATSBY_SHOPIFY_ACCESS_TOKEN": "dd4d4dc146542ba7763305d71d1b3d38",
+    "GATSBY_PRISMIC_REPOSITORY": "shirtsandshit"
   },
   "build": {
     "env": {
-      "GATSBY_SHOP_NAME": "your_shopify_shop_name",
-      "GATSBY_SHOPIFY_ACCESS_TOKEN": "your_shopify_storefront_access_token",
-      "GATSBY_PRISMIC_REPOSITORY": "your_prismic_repository_name"
+      "GATSBY_SHOP_NAME": "graphql",
+      "GATSBY_SHOPIFY_ACCESS_TOKEN": "dd4d4dc146542ba7763305d71d1b3d38",
+      "GATSBY_PRISMIC_REPOSITORY": "shirtsandshit"
     }
   }
 }
